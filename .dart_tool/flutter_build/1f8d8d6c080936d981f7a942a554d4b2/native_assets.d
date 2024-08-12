@@ -1,0 +1,1 @@
+ /Users/macbookpro15/Desktop/BallastTechnicalExercise/BallastTechnical-Exercise/.dart_tool/flutter_build/1f8d8d6c080936d981f7a942a554d4b2/native_assets.yaml: 

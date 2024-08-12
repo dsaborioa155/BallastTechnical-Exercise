@@ -1,0 +1,10 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "run_ballastTechnical",
+            "type": "shell",
+            "command": "flutter pub run flutter_native_splash:create --path=./splashes/flutter_native_ballast_technical_splash.yaml && flutter run"
+        }
+    ]
+}
